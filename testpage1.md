@@ -15,12 +15,12 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  headline: ''
-  content: ''
+  headline: dfggsdfgfg
+  content: urty utjgf hjfgkj yuk yu
   cta:
-    enabled: false
+    enabled: true
     url: ''
-    button_text: ''
+    button_text: vghfh
 - template: 2-column-text
   block: two-column-1
   col_1:
