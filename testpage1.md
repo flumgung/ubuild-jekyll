@@ -33,6 +33,5 @@ page_sections:
   block: media-1
   image: ''
   caption: ''
-published: false
 
 ---
